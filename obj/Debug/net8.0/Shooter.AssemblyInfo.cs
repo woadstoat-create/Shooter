@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shooter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4bdaab4e907aa10f36c9a01b04c4b6bd086295bf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ef439ae8e3470fb07112d2efac8d055dff57dfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shooter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shooter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
