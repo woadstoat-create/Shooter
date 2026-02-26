@@ -1,0 +1,3 @@
+[submodule "WoadEngine"]
+	path = WoadEngine
+	url = https://github.com/woadstoat-create/WoadEngine
