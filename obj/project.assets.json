@@ -17,14 +17,10 @@
           "NVorbis": "0.10.4"
         },
         "compile": {
-          "lib/net8.0/MonoGame.Framework.dll": {
-            "related": ".xml"
-          }
+          "lib/net8.0/MonoGame.Framework.dll": {}
         },
         "runtime": {
-          "lib/net8.0/MonoGame.Framework.dll": {
-            "related": ".xml"
-          }
+          "lib/net8.0/MonoGame.Framework.dll": {}
         },
         "build": {
           "build/MonoGame.Framework.DesktopGL.targets": {}

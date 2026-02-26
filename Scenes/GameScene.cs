@@ -1,8 +1,14 @@
-namespace Shooter.Scene;
+using WoadEngine.Scenes;
+using WoadEngine;
+using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Graphics;
+
+
+namespace Shooter.Scenes;
 
 public class GameScene : Scene
 {
-    public GameScene() : base()
+    public GameScene()
     {
         
     }
